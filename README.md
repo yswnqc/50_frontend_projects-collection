@@ -1,5 +1,5 @@
 # 50_frontend_projects-collection
-| PROJECT  | DEMO |
+| [PROJECT](https://50projects50days.com/)  | DEMO |
 |----------|----------|
 | [1_expanding_cards](https://github.com/yswnqc/50_frontend_projects-1_expanding_cards) | [DEMO](https://yswnqc.github.io/50_frontend_projects-1_expanding_cards/) | 
 | [2_progress_steps](https://github.com/yswnqc/50_frontend_projects-2_progress_steps) | [DEMO](https://yswnqc.github.io/50_frontend_projects-2_progress_steps/) | 
