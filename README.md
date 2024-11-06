@@ -9,4 +9,5 @@
 | [5_hidden_search](https://github.com/yswnqc/50_frontend_projects-5_hidden_search) | [DEMO](https://yswnqc.github.io/50_frontend_projects-5_hidden_search/) | 
 | [6_scroll_animation](https://github.com/yswnqc/50_frontend_projects-6_scroll_animation) | [DEMO](https://yswnqc.github.io/50_frontend_projects-6_scroll_animation/) | 
 | [7_split_landing_page](https://github.com/yswnqc/50_frontend_projects-7_split_landing_page) | [DEMO](https://yswnqc.github.io/50_frontend_projects-7_split_landing_page/) | 
+| [8_form_input_wave](https://github.com/yswnqc/50_frontend_projects-8_form_input_wave) | [DEMO](https://yswnqc.github.io/50_frontend_projects-8_form_input_wave/) | 
 | MORE | IN PROGRESS | 
