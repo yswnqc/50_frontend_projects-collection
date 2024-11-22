@@ -11,4 +11,8 @@
 | [7_split_landing_page](https://github.com/yswnqc/50_frontend_projects-7_split_landing_page) | [DEMO](https://yswnqc.github.io/50_frontend_projects-7_split_landing_page/) | 
 | [8_form_input_wave](https://github.com/yswnqc/50_frontend_projects-8_form_input_wave) | [DEMO](https://yswnqc.github.io/50_frontend_projects-8_form_input_wave/) | 
 | [9_sound_board](https://github.com/yswnqc/50_frontend_projects-9_sound_board) | [DEMO](https://yswnqc.github.io/50_frontend_projects-9_sound_board/) | 
+| [10_dad_jokes](https://github.com/yswnqc/50_frontend_projects-10_dad_jokes) | [DEMO](https://yswnqc.github.io/50_frontend_projects-10_dad_jokes/) | 
+| [11_event_keycodes](https://github.com/yswnqc/50_frontend_projects-11_event_keycodes) | [DEMO](https://yswnqc.github.io/50_frontend_projects-11_event_keycodes/) | 
+| [12_faq_collapse](https://github.com/yswnqc/50_frontend_projects-12_faq_collapse) | [DEMO](https://yswnqc.github.io/50_frontend_projects-12_faq_collapse/) | 
+| [13_random_choice_picker](https://github.com/yswnqc/50_frontend_projects-13_random_choice_picker) | [DEMO](https://yswnqc.github.io/50_frontend_projects-13_random_choice_picker/) | 
 | MORE | IN PROGRESS | 
