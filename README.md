@@ -15,4 +15,6 @@
 | [11_event_keycodes](https://github.com/yswnqc/50_frontend_projects-11_event_keycodes) | [DEMO](https://yswnqc.github.io/50_frontend_projects-11_event_keycodes/) | 
 | [12_faq_collapse](https://github.com/yswnqc/50_frontend_projects-12_faq_collapse) | [DEMO](https://yswnqc.github.io/50_frontend_projects-12_faq_collapse/) | 
 | [13_random_choice_picker](https://github.com/yswnqc/50_frontend_projects-13_random_choice_picker) | [DEMO](https://yswnqc.github.io/50_frontend_projects-13_random_choice_picker/) | 
+| [14_animated_navigation](https://github.com/yswnqc/50_frontend_projects-14_animated_navigation) | [DEMO](https://yswnqc.github.io/50_frontend_projects-14_animated_navigation/) | 
+| [15_incrementing_counter](https://github.com/yswnqc/50_frontend_projects-15_incrementing_counter) | [DEMO](https://yswnqc.github.io/50_frontend_projects-15_incrementing_counter/) | 
 | MORE | IN PROGRESS | 
