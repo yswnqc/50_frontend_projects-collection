@@ -17,4 +17,11 @@
 | [13_random_choice_picker](https://github.com/yswnqc/50_frontend_projects-13_random_choice_picker) | [DEMO](https://yswnqc.github.io/50_frontend_projects-13_random_choice_picker/) | 
 | [14_animated_navigation](https://github.com/yswnqc/50_frontend_projects-14_animated_navigation) | [DEMO](https://yswnqc.github.io/50_frontend_projects-14_animated_navigation/) | 
 | [15_incrementing_counter](https://github.com/yswnqc/50_frontend_projects-15_incrementing_counter) | [DEMO](https://yswnqc.github.io/50_frontend_projects-15_incrementing_counter/) | 
+| [16_drink_water](https://github.com/yswnqc/50_frontend_projects-16_drink_water) | [DEMO](https://yswnqc.github.io/50_frontend_projects-16_drink_water/) | 
+| [17_movie_app](https://github.com/yswnqc/50_frontend_projects-17_movie_app) | [DEMO](https://yswnqc.github.io/50_frontend_projects-17_movie_app/) | 
+| [18_background_slider](https://github.com/yswnqc/50_frontend_projects-18_background_slider) | [DEMO](https://yswnqc.github.io/50_frontend_projects-18_background_slider/) | 
+| [19_theme_clock](https://github.com/yswnqc/50_frontend_projects-19_theme_clock) | [DEMO](https://yswnqc.github.io/50_frontend_projects-19_theme_clock/) | 
+| [20_button_ripple_effect](https://github.com/yswnqc/50_frontend_projects-20_button_ripple_effect) | [DEMO](https://yswnqc.github.io/50_frontend_projects-20_button_ripple_effect/) | 
+| [21_drag_n_drop](https://github.com/yswnqc/50_frontend_projects-21_drag_n_drop) | [DEMO](https://yswnqc.github.io/50_frontend_projects-21_drag_n_drop/) | 
+| [drag](https://github.com/yswnqc/50_frontend_projects-drag) | [DEMO](https://yswnqc.github.io/50_frontend_projects-drag/) | 
 | MORE | IN PROGRESS | 
