@@ -24,5 +24,6 @@
 | [20_button_ripple_effect](https://github.com/yswnqc/50_frontend_projects-20_button_ripple_effect) | [DEMO](https://yswnqc.github.io/50_frontend_projects-20_button_ripple_effect/) | 
 | [21_drag_n_drop](https://github.com/yswnqc/50_frontend_projects-21_drag_n_drop) | [DEMO](https://yswnqc.github.io/50_frontend_projects-21_drag_n_drop/) | 
 | [22_drawing_app](https://github.com/yswnqc/50_frontend_projects-22_drawing_app) | [DEMO](https://yswnqc.github.io/50_frontend_projects-22_drawing_app/) | 
+| [23_kinetic_loader](https://github.com/yswnqc/50_frontend_projects-23_kinetic_loader) | [DEMO](https://yswnqc.github.io/50_frontend_projects-23_kinetic_loader/) | 
 | [drag](https://github.com/yswnqc/50_frontend_projects-drag) | [DEMO](https://yswnqc.github.io/50_frontend_projects-drag/) | 
 | MORE | IN PROGRESS | 
